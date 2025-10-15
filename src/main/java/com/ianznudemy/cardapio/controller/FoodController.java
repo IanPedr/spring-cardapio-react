@@ -32,5 +32,6 @@ public class FoodController {
         List<FoodResponseDTO> foodList = repository.findAll().stream().map(FoodResponseDTO::new).toList();
         return foodList;
     }
+    
 
 }

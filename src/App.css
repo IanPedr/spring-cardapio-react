@@ -13,7 +13,7 @@
 }
 
 .container button {
-  background-color: #0275d8;
+  background-color: #020202;
   color: white;
   font-weight: bold;
   position: fixed;
@@ -24,5 +24,5 @@
 
 .container button:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 7px 0px;
-  transform: scale(1.1);
+  transform: scale(1.0);
 }

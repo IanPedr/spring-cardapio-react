@@ -27,7 +27,7 @@ export function CreateModal({closeModal}: ModalProps){
     const [title, setTitle] = useState ("");
     const [price, setPrice] = useState(0);
     const [image, setImage] = useState("");
-    const { mutate, isSuccess} = useFoodDataMutate();
+    const { mutate, isLoading, isSuccess} = useFoodDataMutate();
 
     const submit = () => {
         const foodData: FoodData = {
@@ -46,16 +46,16 @@ export function CreateModal({closeModal}: ModalProps){
     return(
         <div className="modal-overlay">
             <div className="modal-body">
-                <h2>Cadastre um novo item no cardápio</h2>
+                <h2>Cadastre um novo prato no cardápio</h2>
                 <form className="input-container">
                     <Input label="title" value={title} updateValue={setTitle}/>
                     <Input label="price" value={price} updateValue={setPrice}/>
                     <Input label="image" value={image} updateValue={setImage}/>
+                    <button onClick={submit} className="btn-secundary">
+                     {isLoading ? 'Postando...' : 'Adicionar Novo Prato'}
+                    </button>
                 </form>
-                <button onClick={submit} className="btn-secundary">
-                </button>
             </div>
-
         </div>
     )
 }
