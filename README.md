@@ -1,6 +1,6 @@
 # 🍽️ Cardápio Digital - Frontend
 
-**Um protótipo moderno de Cardápio Digital** desenvolvido durante um tutorial no **YouTube**.  
+**Um protótipo moderno de Cardápio Digital**.  
 Construído com **React**, **TypeScript** e **React Query**.  
 
 ---
@@ -19,8 +19,8 @@ Antes de começar, você precisa ter instalado em sua máquina:
 1️⃣ **Clone o projeto:**
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
-cd frontend-cardapio
+git clone https://github.com/IanPedr/spring-cardapio-react
+cd spring-cardapio-react
 2️⃣ Instale as dependências:
 
 bash
@@ -47,17 +47,13 @@ Você pode conectar a aplicação ao backend de duas maneiras:
 
 Clonando o repositório backend e rodando localmente.
 
-Criando seu próprio backend seguindo o tutorial no YouTube.
-
-Tutorial Backend com Java Spring: YouTube
-
-Repositório Backend: (adicione o link aqui)
+Criando seu próprio backend e seguindo.
 
 📱 Minhas Redes
 Conecte-se comigo:
 
-🌐 Site: fernandakipper.com
+🌐 Site: https://my-portfolio-gamma-lac-50.vercel.app
 
-📸 Instagram: @kipper.dev
+📸 Instagram: @iannsc_
 
-▶️ YouTube: @kipperdev
+▶️ Linkedin: https://www.linkedin.com/in/ian-pedro-1a2426250
