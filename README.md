@@ -1,54 +1,60 @@
-🍽️ Cardápio Digital - Frontend
+# 🍽️ Cardápio Digital - Frontend
 
-Um protótipo simples de Cardápio Digital, desenvolvido durante um tutorial no YouTube. Esta aplicação foi construída utilizando React, TypeScript e React Query.
+**Um protótipo moderno de Cardápio Digital** desenvolvido durante um tutorial no **YouTube**.  
+Construído com **React**, **TypeScript** e **React Query**.  
 
-💻 Requisitos
+---
 
-Antes de iniciar, você precisa ter instalado em sua máquina:
+## 💻 Requisitos
 
-Node.js
+Antes de começar, você precisa ter instalado em sua máquina:
 
-NPM (vem junto com o Node.js)
+- [Node.js](https://nodejs.org/)  
+- NPM (vem junto com o Node.js)
 
-🚀 Instalação
+---
 
-Clone o projeto:
+## 🚀 Instalação
 
+1️⃣ **Clone o projeto:**
+
+```bash
 git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
 cd frontend-cardapio
+2️⃣ Instale as dependências:
 
-
-Instale as dependências:
-
+bash
+Copiar código
 npm install
+3️⃣ Execute a aplicação em modo de desenvolvimento:
 
-
-Execute a aplicação em modo de desenvolvimento:
-
+bash
+Copiar código
 npm run dev
+O projeto será executado em http://localhost:5173 (ou a porta configurada).
 
 🔧 Compilação para Produção
+Para gerar uma versão otimizada do projeto:
 
-Para gerar uma versão otimizada da aplicação:
-
+bash
+Copiar código
 npm run build
-
-
 O build será gerado na pasta dist.
+Pronto para hospedar em qualquer servidor!
 
 🫂 Integração com Backend
+Você pode conectar a aplicação ao backend de duas maneiras:
 
-Você pode integrar esta aplicação com o backend de duas formas:
+Clonando o repositório backend e rodando localmente.
 
-Clonando o projeto backend e rodando localmente.
+Criando seu próprio backend seguindo o tutorial no YouTube.
 
-Desenvolvendo você mesmo seguindo o tutorial no YouTube.
+Tutorial Backend com Java Spring: YouTube
 
-Tutorial Backend com Java Spring: Link do tutorial
-
-Repositório Backend: (adicione o link do repositório aqui, se houver)
+Repositório Backend: (adicione o link aqui)
 
 📱 Minhas Redes
+Conecte-se comigo:
 
 🌐 Site: fernandakipper.com
 
