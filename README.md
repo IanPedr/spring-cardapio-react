@@ -1,40 +1,57 @@
-Cardápio Digital - Aplicação Frontend
-Este projeto é um simples simples protótipo de um Cardápio Digital desenvolvido durante meu tutorial no YouTube. A aplicação foi desenvolvida usando React, Typescript e React Query.
+🍽️ Cardápio Digital - Frontend
 
- 
+Um protótipo simples de Cardápio Digital, desenvolvido durante um tutorial no YouTube. Esta aplicação foi construída utilizando React, TypeScript e React Query.
+
 💻 Requisitos
-Antes de iniciar, você deve ter o Node.js e o NPM instalados em sua máquina.
 
-🚀 Instalando
-Primeiro, você deve clonar o projeto na sua máquina, para isso você pode colar o seguinte comando em seu terminal
+Antes de iniciar, você precisa ter instalado em sua máquina:
+
+Node.js
+
+NPM (vem junto com o Node.js)
+
+🚀 Instalação
+
+Clone o projeto:
 
 git clone https://github.com/Fernanda-Kipper/frontend-cardapio.git
 cd frontend-cardapio
-Para instalar as dependências, execute o seguinte comando:
+
+
+Instale as dependências:
 
 npm install
-Por fim, para executar o projeto basta rodar o seguinte:
+
+
+Execute a aplicação em modo de desenvolvimento:
 
 npm run dev
-🔧 Compilação
-Para compilar a aplicação para produção, execute o seguinte comando:
+
+🔧 Compilação para Produção
+
+Para gerar uma versão otimizada da aplicação:
 
 npm run build
-Isso irá gerar uma versão otimizada da aplicação na pasta dist.
+
+
+O build será gerado na pasta dist.
 
 🫂 Integração com Backend
-Para realizar a integração com o Backend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo seguindo o tutorial no Youtube.
 
-👉 Desenvolvendo o Backend com Java Spring
+Você pode integrar esta aplicação com o backend de duas formas:
 
-👉 Link do repositório
+Clonando o projeto backend e rodando localmente.
 
-Minhas Redes
-Meu site: fernandakipper.com  · 
+Desenvolvendo você mesmo seguindo o tutorial no YouTube.
 
-Instagram: @kipper.dev  · 
+Tutorial Backend com Java Spring: Link do tutorial
 
-YouTube @kipperdev  · 
+Repositório Backend: (adicione o link do repositório aqui, se houver)
 
-📝 Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+📱 Minhas Redes
+
+🌐 Site: fernandakipper.com
+
+📸 Instagram: @kipper.dev
+
+▶️ YouTube: @kipperdev
