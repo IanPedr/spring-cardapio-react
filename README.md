@@ -3,6 +3,11 @@
 **Um protótipo moderno de Cardápio Digital**.  
 Construído com **React**, **TypeScript** e **React Query**.  
 
+<p align="center">
+  <img src="https://github.com/IanPedr/spring-cardapio-react/blob/main/Cardapiopt1.png" alt="Screenshot 1" width="300" />
+  <img src="https://github.com/IanPedr/spring-cardapio-react/blob/main/Cardapiopt2.png" alt="Screenshot 2" width="300" />
+</p>
+
 ---
 
 ## 💻 Requisitos
